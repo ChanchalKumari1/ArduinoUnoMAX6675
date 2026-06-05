@@ -49,6 +49,8 @@ This project Real-Time monitor the **MAX6675 Thermocouple Amplifier Module** and
 ---
 <img width="520" height="248" alt="image" src="https://github.com/user-attachments/assets/f319c9c3-14f9-420a-b6ee-92b33cf4d800" />
 
+<img width="376" height="293" alt="image" src="https://github.com/user-attachments/assets/378a28c1-6be9-4393-9c6e-316bc51743c7" />
+
 ## System Operation
 
 ### Temperature Measurement

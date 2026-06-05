@@ -128,20 +128,16 @@ The relay is immediately turned OFF for safety.
 
 ### Required Library
 
-Install the MAX6675 library through Arduino IDE Library Manager.
+Install the MAX6675 library through Arduino IDE Library Manager. 
+
 
 Common library:
 
 ```text
 max6675
 ```
-
-or
-
-```text
-MAX6675 Library by Adafruit-compatible developers
-```
-
+by Rob Tillaart
+Thank you for the library 
 ---
 
 ### Upload Steps

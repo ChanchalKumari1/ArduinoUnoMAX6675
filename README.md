@@ -32,7 +32,7 @@ This project Real-Time monitor the **MAX6675 Thermocouple Amplifier Module** and
 
 | MAX6675 Pin | Arduino Pin |
 | ----------- | ----------- |
-| VCC         | 5V          |
+| VCC         | 3.3V          |
 | GND         | GND         |
 | SCK         | D9          |
 | CS          | D6          |

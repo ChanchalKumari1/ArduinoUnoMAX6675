@@ -92,8 +92,10 @@ Relay remains OFF.
 Example:
 
 ```text
-Temp = 28°C
-Relay = OFF
+ --> Temp:28 °C  
+ --> Relay: OFF
+ --> Temp: 31.75 °C  
+ --> Relay: OFF
 ```
 
 ---
@@ -106,11 +108,14 @@ Temperature ≥ 30°C
 
 Relay turns ON.
 
-Example:
+on Serial Monior:
 
 ```text
-Temp = 32°C
-Relay = ON
+215.212 --> Temp: 31.50 °C  |  88.70 °F
+215.214 --> Relay: ON
+216.215 --> Temp: 31.75 °C  |  89.15 °F
+216.217 --> Relay: ON
+
 ```
 
 ---
@@ -185,7 +190,7 @@ Relay turns ON at 100°C.
 
 ---
 
-## Serial Output Example
+## Serial Output on Arduino IDE
 
 ```text
 MAX6675 + Relay Ready
@@ -197,8 +202,6 @@ Threshold set to: 30.0 °C
 2.000 --> Temp: 29.75 °C | 85.55 °F
 2.000 --> Relay: OFF
 
-3.000 --> Temp: 31.50 °C | 88.70 °F
-3.000 --> Relay: ON
 ```
-
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/ad0ab753-e5e9-42bc-9f1e-09ae144e86b7" />
 ---

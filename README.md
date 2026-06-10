@@ -3,6 +3,7 @@
 ## Overview
 
 This project Real-Time monitor the **MAX6675 Thermocouple Amplifier Module** and a **K-Type Thermocouple Sensor** to measure temperature and automatically control a relay when a temperature threshold is reached.
+Smart temperature monitoring and relay automation using Arduino Uno and MAX6675 thermocouple sensor — ideal for industrial control applications by an [arduino coder for hire](https://digitalmonk.biz/hire-arduino-developer/).
 
 **Funtionality:
 **
